@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Raj Kumar
+# Hi 👋, I'm Raj
 
 ### 🚀 Aspiring Google SDE | AI Enthusiast | Android Developer | Open Source Contributor
 
