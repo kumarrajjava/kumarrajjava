@@ -55,9 +55,31 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,firebase,aws,gcp,docker,git,github,androidstudio,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,mysql,gcp,git,github,vscode,figma,html,css,javascript" />
 
 </div>
+
+---
+
+# 📱 Android & Software Engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Android%20App%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Software%20Engineer-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java%20Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-Backend-yellow?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Developer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge&logo=github"/>
+
+</div>
+```
+
 
 ---
 
@@ -122,9 +144,15 @@
 
 ---
 
-# 😂 Random Dev Meme
+# 😂 Programmer Humor
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+</div>
+```
+
 
 ---
 
