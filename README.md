@@ -55,13 +55,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,mysql,gcp,git,github,vscode,figma,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,mysql,gcp,git,github,vscode,figma,android,docker," />
 
 </div>
 
 ---
 
-# 📱 Android & Software Engineering
+# 📱 Software Engineer
 
 <div align="center">
 
