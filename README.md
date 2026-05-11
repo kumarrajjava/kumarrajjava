@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,mysql,gcp,git,github,vscode,figma,android,docker," />
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,mysql,gcp,git,github,vscode,figma,docker," />
 
 </div>
 
@@ -78,20 +78,30 @@
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge&logo=github"/>
 
 </div>
-```
 
 
 ---
 
 # 🏆 Achievements
 
-🏅 Google Cloud Study Jams — **Top 75 Performer**
-🏅 19+ Google Cloud Skill Badges
-🏅 GDG Lucknow Active Member
-🏅 GSSoC '25 Open Source Contributor
-🏅 Organizer — Android Lucknow
-🏅 Founder — Neurozy
-🏅 510+ LeetCode Problems Solved
+<div align="center">
+
+| 🚀 Achievement | 🌟 Details |
+|---|---|
+| ☁️ Google Cloud Study Jams | Top 75 Performer |
+| 🏅 Google Cloud Skills | 19+ Skill Badges Earned |
+| 🤖 GenAI Arcade | Level 3 Achiever |
+| 🔥 GDG Lucknow | Active Community Member |
+| 📱 Android Lucknow | Organizer |
+| 💻 GSSoC '25 & '26 | Open Source Contributor |
+| 🚀 Neurozy | Founder & Developer |
+| 🧠 LeetCode | 510+ DSA Problems Solved |
+| ☁️ Google Cloud | Contributor |
+| 🤖 AI & Android | Building Real-World Solutions |
+
+</div>
+
+
 
 ---
 
@@ -118,7 +128,6 @@
 [![Raj Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarrajjava&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/kumarrajjava)
 
 </div>
-```
 
 ---
 
@@ -156,7 +165,6 @@
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 </div>
-```
 
 
 ---
