@@ -113,7 +113,12 @@
 
 # 🔥 GitHub Contribution Graph
 
-[![Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<div align="center">
+
+[![Raj Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarrajjava&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/kumarrajjava)
+
+</div>
+```
 
 ---
 
