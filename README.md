@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Raj
 
-### 🚀 Aspiring Google SDE | AI Enthusiast | Android Developer | Open Source Contributor
+### 🚀 Aspiring Google SDE | Organizer – Android Lucknow | Founder – Neurozy | Android App Developer | Open Source Contributor | GSSoC'25 Contributor | GSSoC'26 Contributor | Google Cloud Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=BTech+CSE+(DS+%26+AI)+Student;Google+Cloud+Contributor;GDG+Lucknow+Member;Android+Developer;Open+Source+Contributor;510%2B+DSA+Problems+Solved;Building+AI+Powered+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Google+Cloud+Contributor;Android+Lucknow+Organizer;Android+App+Developer;Founder+Neurozy;Open+Source+Contributor;GSSoC+2025+Contributor;GSSoC+2026+Contributor;510%2B+DSA+Problems+Solved;Building+AI+Powered+Solutions" />
 
 </div>
 
@@ -108,7 +108,9 @@
 
 # 🏅 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=algolia\&no-frame=true\&margin-w=10)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kumarrajjava&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
